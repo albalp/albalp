@@ -1,11 +1,17 @@
-<h1 align="center">  :crescent_moon: :space_invader: Hey, I'm Alba, Front-End Developer Jr :space_invader: :crescent_moon:</h1>
-<h3 align="center">Computer Engineer</h3>
+<h1 align="center">  :crescent_moon: :crystal_ball: Hey, I'm Alba, Front-End Developer Jr. :crystal_ball: :crescent_moon:</h1>
+<h3 align="center">
+  <p>:mortar_board: Computer Engineer :mortar_board: <br>
+    :space_invader: Tech lover :space_invader: <br>
+    :dog2: Doggos lover :dog2: <br>
+    :movie_camera: Arts lover :movie_camera:
+  </p>
+</h3>
 
-### - 🔭 **I’m currently working on:** [Lab-Notes](https://github.com/albalp/CDMX011-lab-notes)
-
-### - 🌱 **I’m currently learning:** React.
-
-### - ⚡ **Random fact:**  I love cooking, writing and drawing**
+## <h3> 
+  - 🔭 I’m currently working on: [Lab-Notes](https://github.com/albalp/CDMX011-lab-notes)
+  - :bulb: I’m currently learning: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
+  - :art: Random fact:  I love cooking, writing and drawing.
+  </h3>
 
 ## <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -37,7 +43,7 @@
       
 ## <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/albalopezp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albalopezp" height="50" width="50" /></a>
+<ahref="https://www.linkedin.com/in/albalopezp/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="50" height="50" alt="Albalp height="50" width="50" /></a>
 <a href="mailto:alba.lp95@gmail.com"><img src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" height="50" width="50" title="gmail"/>  
 </p>
       
