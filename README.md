@@ -8,7 +8,7 @@
 </h3>
 
 ## <h3> 
-  - 🔭 I’m currently working on: [Lab-Notes](https://github.com/albalp/CDMX011-lab-notes)
+  - 🔭 I’m currently working on: Improving
   - :bulb: I’m currently learning: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
   - :art: Random fact:  I love cooking, writing and drawing.
   </h3>
