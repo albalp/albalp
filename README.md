@@ -1,4 +1,4 @@
-<h1 align="center">  :crescent_moon: :crystal_ball: Hey, I'm Alba, Front-End Developer Jr. :crystal_ball: :crescent_moon:</h1>
+<h1 align="center">  :crescent_moon: :crystal_ball: Hey, I'm Alba, Javascript Developer Jr. :crystal_ball: :crescent_moon:</h1>
 <h3 align="center">
   <p>:mortar_board: Computer Engineer :mortar_board: <br>
     :space_invader: Tech lover :space_invader: <br>
@@ -49,4 +49,4 @@
       
 ## <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albalp&show_icons=true&locale=en&layout=compact" alt="albalp" /></p>
 
-## <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albalp&show_icons=true&locale=en" alt="albalp" /></p>
+## <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=albalp&show_icons=true&locale=en" alt="albalp" /></p>
