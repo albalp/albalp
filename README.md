@@ -49,8 +49,8 @@
       
 ## <div display= "flex">
   
-   <p>&nbsp;<img align-items= "center" justify-content= "space-around" src="https://github-readme-stats.vercel.app/api?username=albalp&show_icons=true&locale=en" alt="albalp" /></p>
+   <p>&nbsp;<img align-items= "center" justify-content= "center" src="https://github-readme-stats.vercel.app/api?username=albalp&show_icons=true&locale=en" alt="albalp" /></p>
   
-  <p><img align-items= "center" justify-content= "space-around" src="https://github-readme-stats.vercel.app/api/top-langs?username=albalp&show_icons=true&locale=en&layout=compact" alt="albalp" /></p>
+  <p><img align-items= "center" justify-content= "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albalp&show_icons=true&locale=en&layout=compact" alt="albalp" /></p>
   
   </div>
