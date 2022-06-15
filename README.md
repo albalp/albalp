@@ -47,7 +47,7 @@
 <a href="mailto:alba.lp95@gmail.com"><img src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" height="50" width="50" title="gmail"/>  
 </p>
       
-##<div display='flex' >
+## <div display="flex" >
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albalp&show_icons=true&locale=en&layout=compact" alt="albalp" /></p>
 
  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=albalp&show_icons=true&locale=en" alt="albalp" /></p>
