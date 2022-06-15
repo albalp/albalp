@@ -8,8 +8,8 @@
 </h3>
 
 ## <h3> 
-  - :bulb: I'm learning Angular, Typescript and Micro Frontends.
-  -  🔭 I’m currently working at Improving: <img src="https://improving.com/images/improving-logo-blue.png" alt="react" width="50" height="35"/> 
+  - :bulb: I'm learning Angular, Typescript and Micro Frontends. <br>
+  -  🔭 I’m currently working at Improving: <img src="https://improving.com/images/improving-logo-blue.png" alt="react" width="50" height="35"/> <br>
   - :art: Random fact:  I love cooking, writing and drawing.
   </h3>
 
