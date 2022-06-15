@@ -48,7 +48,6 @@
 </p>
       
 ## <div display="flex" >
+   <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=albalp&show_icons=true&locale=en" alt="albalp" /></p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albalp&show_icons=true&locale=en&layout=compact" alt="albalp" /></p>
-
- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=albalp&show_icons=true&locale=en" alt="albalp" /></p>
   </div>
