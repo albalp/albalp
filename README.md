@@ -9,7 +9,7 @@
 
 ## <h3> 
   - 🔭 I’m currently working on: Improving
-  - :bulb: I’m currently learning: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
+  - :bulb: I’m currently working at Improving: <img src="https://improving.com/images/improving-logo-blue.png" alt="react" width="30" height="30"/> 
   - :art: Random fact:  I love cooking, writing and drawing.
   </h3>
 
