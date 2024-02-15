@@ -1,4 +1,4 @@
-<h1 align="center">  :crescent_moon: :crystal_ball: Hey, I'm Alba, Javascript Developer Jr. :crystal_ball: :crescent_moon:</h1>
+<h1 align="center">  :crescent_moon: :crystal_ball: Hey, I'm Alba, Javascript Developer. :crystal_ball: :crescent_moon:</h1>
 <h3 align="center">
   <p>:mortar_board: Computer Engineer :mortar_board: <br>
     :space_invader: Tech lover :space_invader: <br>
@@ -8,9 +8,9 @@
 </h3>
 
 ## <h3> 
-  - :bulb: I'm learning Angular, Typescript and Micro Frontends. <br>
-  -  🔭 I’m currently working at Improving: <img src="https://improving.com/images/improving-logo-blue.png" alt="react" width="50"/> <br>
-  - :art: Random facts:  I love cooking, writing and drawing.
+  - :bulb: I have one year working with Angular. <br>
+  -  🔭 I’m currently working at Improving <br>
+  - :art: Random facts:  I love cooking, writing, and drawing.
   </h3>
 
 ## <h3 align="center">Languages and Tools:</h3>
